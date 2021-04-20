@@ -8,9 +8,11 @@ object,
 iframe,
 h1 {
   margin-bottom: 10px
+  font-style: bold;
 }
 h2 {
   margin-bottom: 10px
+  font-style: bold;
 }
 h3 {
   margin-bottom: 10px
